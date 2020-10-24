@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1602362115 source:e:\programiranje\c\udemy\vaja1\vaja1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"other.h"
+
+1602361950 e:\programiranje\c\udemy\vaja1\vaja1\other.h
+
+1602362173 source:e:\programiranje\c\udemy\vaja1\vaja1\other.c
+	"other.h"
+
